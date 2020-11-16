@@ -1,11 +1,10 @@
 Package: PelotonData
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Fetch data from Peloton tidily
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Colin Fraser
+Maintainer: Colin Fraser <colin.r.fraser@gmail.com>
+Description: Uses the peloton API to get data from peloton
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
